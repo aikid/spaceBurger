@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "42224082105",
+    "project_id": "space-burger-50992",
+    "storage_bucket": "space-burger-50992.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42224082105:android:ceafd51b7fbcf35665cf68",
+        "android_client_info": {
+          "package_name": "com.spaceburger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42224082105-nqhmn38jrrk33k330anbk131f7du93f8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu_mtm6pD8SzE9snTn8F7YEDosa9mOhao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42224082105-nqhmn38jrrk33k330anbk131f7du93f8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
